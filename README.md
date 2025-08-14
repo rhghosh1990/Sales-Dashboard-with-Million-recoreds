@@ -1,0 +1,1 @@
+Power BI Sales Dashboard – Analyzed 1M+ sales records (2010–2017) to uncover ₹1.33T revenue, ₹392.3B profit (29.5% margin), regional YoY growth, category profitability, and channel trends. Built using Power Query, DAX, and theme-based design to turn raw data into actionable business insights.
